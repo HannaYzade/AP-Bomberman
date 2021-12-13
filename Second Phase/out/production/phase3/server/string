@@ -1,0 +1,6 @@
+
+ extend AbstractBadAnimal;
+ implement findDirection();
+ implement getName() and return "New";
+ Constructor must be take i, j and game;
+ declare a static field lev that is first level of enemy;
